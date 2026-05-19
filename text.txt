@@ -1,3 +1,5 @@
 hola desde desarrollo
 Mi nombre es Jhoryo Alejandro Romero Espitia
 este es un ejemplo de como se sube desde el respositorio remoto al local
+
+este es un ejemplo de como se sube desde local al remoto
